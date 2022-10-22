@@ -1,0 +1,4 @@
+[submodule "libgen-calibre-store-plugin"]
+	path = libgen-calibre-store-plugin
+	url = https://github.com/SudoNova/libgen-calibre-store-plugin
+	ignore = untracked
